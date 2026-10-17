@@ -86,4 +86,4 @@ chmod +x gradlew
 
 ## 仓库迁移
 
-本项目于 2026-10-17 从 [Yido404/MC_mod 的 Observerzone](https://github.com/Yido404/MC_mod/tree/main/Observerzone) 拆为独立仓库。此前的提交历史保留在原仓库，后续开发使用本仓库。
+本项目于 2026-10-17 从 MC_mod 的 `Observerzone` 拆为独立仓库。拆分前的[源码与提交历史](https://github.com/Yido404/ModernFurniture/tree/84d251079847967cd7e9f61ba1e6d4f3b809f8f7/Observerzone)已随导入保存在 ModernFurniture 仓库的历史记录中，后续开发使用本仓库。
